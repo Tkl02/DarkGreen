@@ -22,20 +22,6 @@
 			}
 		},
 		{
-			"name": "haskell variable generic-type",
-			"scope": "variable.other.generic-type.haskell",
-			"settings": {
-				"foreground": "#0050ff",
-			}
-		},
-		{
-			"name": "haskell storage type",
-			"scope": "storage.type.haskell",
-			"settings": {
-				"foreground": "#ff00ff"
-			}
-		},
-		{
 			"name": "support.variable.magic.python",
 			"scope": "support.variable.magic.python",
 			"settings": {
@@ -1848,7 +1834,7 @@
 	],
 	"colors": {
 		"foreground": "#cccccc",
-		"focusBorder": "#00d300",
+		"focusBorder": "#00d30080",
 		"selection.background": "#00a70080",
 		"scrollbar.shadow": "#000000",
 		"activityBar.foreground": "#00ff00",
@@ -1893,13 +1879,13 @@
 		"titleBar.border": "#00000000",
 		"menubar.selectionForeground": "#00ff00",
 		"menubar.selectionBackground": "#FFFFFF21",
-		"menu.foreground": "#00ff00d9",
-		"menu.background": "#1b1b1b",
+		"menu.foreground": "#ffffffd9",
+		"menu.background": "#0a0a0a",
 		"menu.selectionForeground": "#ffffff",
 		"menu.selectionBackground": "#007100",
 		"menu.selectionBorder": "#00000000",
 		"menu.separatorBackground": "#bbbbbb",
-		"menu.border": "#00000085",
+		"menu.border": "#00ff0077",
 		"button.background": "#006400",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#009600",
