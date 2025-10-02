@@ -1,0 +1,23 @@
+{
+  "name": "darkgreen",
+  "displayName": "DarkGreen",
+  "description": "",
+  "icon": "assets/logo.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "Tkl02",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tkl02",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tkl02-color-theme.json"
+      }
+    ]
+  }
+}
